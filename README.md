@@ -1,7 +1,7 @@
 # Neuro-Glass v4
 
-Real-time neuroevolution of Echo State Networks playing a falling-brick game.
+![Demo](assets/demo_small.gif)
 
-**Demo**: Run `python neuro_glass.py` then open http://127.0.0.1:5000
+A real-time neuroevolution playground where digital organisms evolve their own brain physiology to survive.
 
-**Architecture**: Fixed sparse reservoirs + evolved physiology + trainable readout
+**Try it**: `pip install -r requirements.txt && python neuro_glass.py`
