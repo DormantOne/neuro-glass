@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.json
+.DS_Store
+neuro_save.json
+venv/
